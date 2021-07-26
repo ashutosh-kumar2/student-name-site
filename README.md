@@ -1,6 +1,8 @@
-# Personal portfolio
+# Practice
 
-Hi! This is Ashutosh Kumar. Welcome to my portfolio. Its currently in progress, will be up as soon as I learn HTML and CSS.
+Hi! This is Ashutosh Kumar. Welcome to my portfolio. Its currently in progress, will be up as soon as I learn HTML and CSS. This is a practice site I deployed while learning GitHub, VSCode and Netlify. 
+
+edit: My portfolio is ready. Please visit kumarashutosh.netlify.app.
 
 As of now, I know:
 1. Javascript
