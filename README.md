@@ -9,3 +9,7 @@ As of now, I know:
 2. NodeJS
 3. Repl.it
 4. CHALK
+5. Web Hosting
+6. HTML
+7. CSS
+8. Git and GitHub
